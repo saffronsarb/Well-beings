@@ -2,7 +2,7 @@ name: Deploy Well-Beings to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: - implement-well-beings-app
   workflow_dispatch:
 
 permissions:
